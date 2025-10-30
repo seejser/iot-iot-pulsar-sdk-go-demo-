@@ -15,7 +15,7 @@ import (
 const (
 	PulsarURL   = "pulsar+ssl://iot-north-mq.heclouds.com:6651"
 	IoTAccessID = "23bVZmLSwquFUWoe9572"
-	IoTSecretKey = ""
+	IoTSecretKey = ""//补全你的 Secret Key
 	TopicName   = "23bVZmLSwquFUWoe9572/iot/event"
 	SubName     = "23bVZmLSwquFUWoe9572-sub-go"
 )
